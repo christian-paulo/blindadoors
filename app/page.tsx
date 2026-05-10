@@ -1,8 +1,8 @@
 import Nav from "@/components/Nav";
 import FAQList from "@/components/FAQList";
 
-const PHONE = "+351 000 000 000";
-const PHONE_HREF = "tel:+351000000000";
+const PHONE = "+351 931 911 903";
+const PHONE_HREF = "tel:+351931911903";
 const EMAIL = "geral@blindadoors.pt";
 
 const MARQUEE_ITEMS = [

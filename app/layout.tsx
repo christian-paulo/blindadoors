@@ -79,7 +79,7 @@ const localBusinessSchema = {
   name: SITE_NAME,
   description: SITE_DESCRIPTION,
   url: SITE_URL,
-  telephone: "+351000000000",
+  telephone: "+351931911903",
   address: {
     "@type": "PostalAddress",
     addressLocality: "São João da Madeira",
